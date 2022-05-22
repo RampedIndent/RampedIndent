@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Rust
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RampedIndent&theme=outrun&exclude_repo=dotfiles" />
-</a>
+</a> -->
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RampedIndent&theme=outrun" />
-</a>
+</a> <br>
 <a href="https://github.com/rampedindent">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RampedIndent&theme=outrun&show_icons=true" />
 </a>
