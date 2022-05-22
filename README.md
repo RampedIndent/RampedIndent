@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RampedIndent&theme=outrun&exclude_repo=dotfiles" />
 </a> -->
 <a href="https://github.com/rampedindent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RampedIndent&theme=outrun" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RampedIndent&theme=radical" />
 </a> <br>
 <a href="https://github.com/rampedindent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RampedIndent&theme=outrun&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RampedIndent&theme=radical&show_icons=true" />
 </a>
